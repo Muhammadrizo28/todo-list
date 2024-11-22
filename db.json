@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "Home task",
+      "description": "todo le lllike me notvl",
+      "date": "2024-11-24",
+      "completed": true,
+      "id": "1"
+    },
+    {
+      "id": "32a0",
+      "title": "hello",
+      "description": "аdddd",
+      "date": "2024-11-19",
+      "completed": true
+    },
+    {
+      "id": "fe19",
+      "title": "okay",
+      "description": "never",
+      "date": "2024-11-25",
+      "completed": false
+    },
+    {
+      "id": "71ac",
+      "title": "first",
+      "description": "looook",
+      "date": "2024-11-01",
+      "completed": true
+    },
+    {
+      "id": "7120",
+      "title": "last",
+      "description": "koool",
+      "date": "2024-11-30",
+      "completed": true
+    }
+  ]
+}
